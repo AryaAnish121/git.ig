@@ -1,0 +1,29 @@
+{
+  "name": "@aryaanish/git.ig",
+  "version": "1.0.0",
+  "description": "A package which creates a .gitignore file with necessary ignores",
+  "main": "app.js",
+  "preferGlobal": true,
+  "bin": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryaAnish121/git.ig.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "gitignore"
+  ],
+  "author": "AryaAnish121",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AryaAnish121/git.ig/issues"
+  },
+  "homepage": "https://github.com/AryaAnish121/git.ig#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
