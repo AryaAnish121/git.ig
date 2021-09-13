@@ -1,6 +1,6 @@
 {
   "name": "@aryaanish/git.ig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package which creates a .gitignore file with necessary ignores",
   "main": "app.js",
   "preferGlobal": true,
